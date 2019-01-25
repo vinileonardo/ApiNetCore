@@ -1,0 +1,14 @@
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.csproj.CoreCompileInputs.cache
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.RazorAssemblyInfo.cache
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.RazorAssemblyInfo.cs
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.AssemblyInfoInputs.cache
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.AssemblyInfo.cs
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\bin\Debug\netcoreapp2.1\Livros.deps.json
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\bin\Debug\netcoreapp2.1\Livros.runtimeconfig.json
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\bin\Debug\netcoreapp2.1\Livros.runtimeconfig.dev.json
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\bin\Debug\netcoreapp2.1\Livros.dll
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\bin\Debug\netcoreapp2.1\Livros.pdb
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.RazorTargetAssemblyInfo.cache
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.dll
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.pdb
+C:\Users\Dev-TI\Desktop\projetos\aspcore\ApiLivros\Livros\Livros\obj\Debug\netcoreapp2.1\Livros.csprojAssemblyReference.cache
